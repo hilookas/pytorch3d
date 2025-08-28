@@ -19,3 +19,5 @@ website/_tutorials/
 website/static/files/
 website/pages/tutorials/*
 !website/pages/tutorials/index.js
+
+pytorch3d/_C.*
